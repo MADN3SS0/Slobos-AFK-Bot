@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "BOTdoMELO",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "semi-anarquico-ey0T.aternos.me",
+    "port": 26816,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "O Nuno já morreu imensas vezes!",
+        "O rodrigo parece um escravo!",
+        "Até eu matava esse Nuno!"
       ]
     },
     "chat-log": true,
